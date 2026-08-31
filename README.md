@@ -1,5 +1,14 @@
-## Hi there 👋
+<img width="1472" height="518" alt="image" src="https://cdn.pfps.gg/banners/8522-pixel-art.png" />
 
+
+<h1> 
+Haiiii, I'm Jayne :3
+</h1>
+
+### About me
+<!-- ♀️ She/Her<br/> -->
+- 📆 3rd April<br/>
+- 💼 Apprantace as IT specialists for Application development
 <!--
 **JayneTheKitty/JayneTheKitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
